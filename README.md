@@ -1,6 +1,3 @@
-# Let's create the README.md content and save it as a .md file.
-
-readme_content = """
 # zkenny_test-repo-gh
 
 ### The best testing repo... you know, for testing stuff.
@@ -29,10 +26,3 @@ Just like the installation... Ditto! (Feel free to stare at the repo and contemp
 - **zkenny**
 - **ChatGPT** (*your ever-helpful AI assistant*)
 """
-
-# Save the content as README.md
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
